@@ -1,4 +1,4 @@
-# scrapingo
+# Scrapingo
 Let's make exceptional web crawler/scraper framework to create datasets for ai but not limited to that \
  **Take one feature at a time**
 
