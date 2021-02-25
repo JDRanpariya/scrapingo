@@ -1,5 +1,5 @@
 # scrapingo
-let's make exceptional web crawler/scraper framework to create datasets for ai but not limited to that
+Let's make exceptional web crawler/scraper framework to create datasets for ai but not limited to that
 
 
 # Features
