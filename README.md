@@ -7,6 +7,7 @@ Let's make exceptional web crawler/scraper framework to create datasets for ai b
 - Easy to Use
 - Clean API
 ## Phase 1
+- [ ] add support for random user agents :construction:
 - Fast (>1k request/sec on a single core)
 - Manages request delays and maximum concurrency per domain
 - Cookies, Middlewares, robots.txt
